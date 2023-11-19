@@ -35,4 +35,5 @@
 <div align="center">
 <img align="center" alt="Coding" width="400" height="270" src="https://tenor.com/view/coding-gif-18657810.gif">
 </div>
-![snake gif](https://github.com/ritujayadav/ritujayadav/blob/output/github-contribution-grid-snake.gif)
+![snake gif]
+(https://github.com/ritujayadav/ritujayadav/blob/output/github-contribution-grid-snake.gif)
