@@ -63,7 +63,7 @@
 
 
 
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ritujayadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 
 
@@ -76,20 +76,22 @@
 
 
 
-<div align="center">
+
+
+
+
+<p align="left"> <a href="https://github.com/ritujayadav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritujayadav&theme=gruvbox" alt="ritujayadav" /></a> </p>
+
+
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.leetcode.com/rituja_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rituja_yadav" height="30" width="40" /></a>
 </p>
-</div>
 
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritujayadav&theme=gruvbox" alt="ritujayadav" /></a> </p>
 
 <div align="center">
 <img align="center" alt="Coding" width="400" height="270" src="https://tenor.com/view/coding-gif-18657810.gif">
 </div>
-
