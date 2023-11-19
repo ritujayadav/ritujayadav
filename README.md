@@ -1,3 +1,16 @@
+
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Rituja Yadav R</h1>
 
 <h3 align="center"><b>Frontend Enthusiast</b> </h3>
@@ -43,29 +56,38 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritujayadav&show_icons=true&locale=en&layout=compact" alt="ritujayadav" /></p>
+
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 
 
 <!-- GitHub Readme Stats - Animated Icons -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritujayadav&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritujayadav&show_icons=true&locale=en&layout=compact" alt="ritujayadav" /></p>
+</div>
 
 
 
-<br>
+<div align="center">
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.leetcode.com/rituja_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rituja_yadav" height="30" width="40" /></a>
 </p>
+</div>
+
+
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritujayadav&theme=gruvbox" alt="ritujayadav" /></a> </p>
 
-![snake gif](https://github.com/ritujayadav/ritujayadav/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
 <img align="center" alt="Coding" width="400" height="270" src="https://tenor.com/view/coding-gif-18657810.gif">
 </div>
