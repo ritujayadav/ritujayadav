@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritujayadav&label=Profile%20views&color=0e75b6&style=flat" alt="ritujayadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritujayadav" alt="ritujayadav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritujayadav&theme=gruvbox" alt="ritujayadav" /></a> </p>
 
 - 👨‍💻 Computer Science Student.
 
@@ -32,8 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritujayadav&show_icons=true&locale=en" alt="ritujayadav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritujayadav&" alt="ritujayadav" /></p>
+
+![snake gif](https://github.com/ritujayadav/ritujayadav/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
 <img align="center" alt="Coding" width="400" height="270" src="https://tenor.com/view/coding-gif-18657810.gif">
 </div>
-![snake gif]
-(https://github.com/ritujayadav/ritujayadav/blob/output/github-contribution-grid-snake.gif)
+
