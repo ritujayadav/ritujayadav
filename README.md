@@ -7,10 +7,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/rituja-yadav-b6080323a/"height="25" alt="linkedin logo"  />
+
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/rituja-yadav-b6080323a/)
+  
 </div>
-
-
 <h1 align="center">Hi 👋, I'm Rituja Yadav R</h1>
 
 <h3 align="center"><b>Frontend Enthusiast</b> </h3>
