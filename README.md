@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋, I'm Rituja Yadav R</h1>
-<h3 align="center">An aspiring frontend developer from Chennai</h3>
+<h3 align="center">Frontend Enthusiast</h3>
+
+
+<div align="center">
+<img align="center" alt="Coding" width="400" height="270" src="https://tenor.com/view/working-from-home-computer-homework-gif-13271998.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritujayadav&label=Profile%20views&color=0e75b6&style=flat" alt="ritujayadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritujayadav" alt="ritujayadav" /></a> </p>
 
+- 👨‍💻 Computer Science Student.
+
 - 🔭 I’m currently working on **EduHub**
 
-- 🌱 I’m currently learning **Advanced Java, DSA, FrontEnd**
-
-- 👨‍💻 All of my projects are available at [https://rituja-yadav.github.io/prtfolio/](https://rituja-yadav.github.io/prtfolio/)
+- 🌱 I’m currently learning **Advanced Java, DSA, FrontEnd Development.**
 
 - 📫 How to reach me **officialrituja@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D_7onHxurqkDfFePAQ2Qx87etwsIKDrk/view?usp=drive_link](https://drive.google.com/file/d/1D_7onHxurqkDfFePAQ2Qx87etwsIKDrk/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yadav_rituja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadav_rituja" height="30" width="40" /></a>
-<a href="https://instagram.com/rituja_yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rituja_yadav_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rituja_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rituja_yadav" height="30" width="40" /></a>
 </p>
 
@@ -30,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritujayadav&show_icons=true&locale=en" alt="ritujayadav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritujayadav&" alt="ritujayadav" /></p>
+<div align="center">
+<img align="center" alt="Coding" width="400" height="270" src="https://tenor.com/view/coding-gif-18657810.gif">
+</div>
